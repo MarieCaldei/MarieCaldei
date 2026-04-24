@@ -15,4 +15,4 @@ You can view and download my professional CV here:
 👉 **[Download my CV (PDF)](./CV_CALDEIREIRO_Marie.pdf)**
 
 ## 📫 Connect with me
-- [LinkedIn](www.linkedin.com/in/marie-caldeireiro)
+- [LinkedIn](https://www.linkedin.com/in/marie-caldeireiro)
