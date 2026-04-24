@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Marie Caldeireiro 👋
 
-<!--
-**MarieCaldei/MarieCaldei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Master in Financial Engineering student at EDHEC Business School**.
 
-Here are some ideas to get you started:
+## 📈 Professional Portfolio
+I use this GitHub to showcase my technical implementation of financial models:
+- **LDI & Goal-Based Investing:** Engineering retirement solutions (Vasicek, Heston, CPPI).
+- **Portfolio Optimization:** Black-Litterman and Mean-Variance frameworks.
+- **Machine Learning:** Financial risk modeling and return forecasting.
+- **Derivatives:** Pricing and hedging complex instruments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 My Resume
+You can view and download my professional CV here:
+👉 **[Download my CV (PDF)](./CV_CALDEIREIRO_Marie.pdf)**
+
+## 📫 Connect with me
+- [LinkedIn](www.linkedin.com/in/marie-caldeireiro)
