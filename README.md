@@ -1,6 +1,7 @@
 # Hi, I'm Marie Caldeireiro 👋
 
-I am a student in double degree **MSc in Financial Engineering & Applied Maths at EDHEC Business School and Université Côte d'Azur**.
+I am a student in double degree **MSc in Financial Engineering & Applied Mathematics**
+at EDHEC Business School and Université Côte d'Azur.
 
 ## 📈 Professional Portfolio
 I use this GitHub to showcase my technical implementation of financial models:
